@@ -19,3 +19,11 @@ Repositório para a **Atividade 02 | Unidade II** .
 4. [Link do Repositório](#c4)  
 
 ---
+
+# <a name="c1"></a>1. Compilação e Testes
+
+## Via powershell - TadConjunto
+
+``` g++ -std=c++11 ArraySet.cpp main.cpp -o testSet.exe ```
+
+Execute: ``` .\testSequence.exe ```
