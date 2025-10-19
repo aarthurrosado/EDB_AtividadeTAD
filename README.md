@@ -37,3 +37,36 @@ Execute: ``` .\testSet.exe ```
 Execute: ``` testSequence.exe ```
 
 <img src="teste.sequence.png" alt="Execução dos testes">
+
+# <a name="c2"></a>2. Métodos Implementados
+
+## TadConjunto
+
+Classe que representa um conjunto de **strings únicas** armazenadas em um **vetor estático**.
+
+| Método | Descrição |
+|--------|------------|
+| `add(string s)` | Adiciona um novo elemento se ele ainda não estiver contido no conjunto. Retorna `true` se foi adicionado, `false` se já existe. |
+| `remove(string s)` | Remove o elemento informado, se existir. Retorna `true` se a remoção foi bem-sucedida. |
+| `contains(string s)` | Verifica se o elemento informado está presente no conjunto. |
+| `isEmpty()` | Retorna `true` se o conjunto estiver vazio. |
+| `size()` | Retorna a quantidade atual de elementos armazenados. |
+| `clear()` | Remove todos os elementos, zerando o conjunto. |
+
+## TadSequence
+
+Classe que representa uma **lista encadeada de strings**, com operações de inserção, remoção e acesso a elementos.
+
+| Método | Descrição |
+|--------|------------|
+| `insertBegin(string element)` | Insere um novo elemento no **início** da sequência. |
+| `insertEnd(string element)` | Insere um novo elemento no **final** da sequência. |
+| `insert(int i, string element)` | Insere o elemento na posição `i` (1-indexado). Se `i` for menor ou igual a 1, insere no início. |
+| `removeBegin()` | Remove o **primeiro** elemento da sequência e o retorna. |
+| `removeEnd()` | Remove o **último** elemento da sequência e o retorna. |
+| `remove(int i)` | Remove o elemento da posição `i` e o retorna. |
+| `get(int i)` | Retorna o valor armazenado na posição `i`. |
+| `isEmpty()` | Retorna `true` se a sequência estiver vazia. |
+| `getQuantity()` | Retorna a quantidade total de elementos. |
+| `print()` | Exibe todos os elementos na ordem atual. |
+
