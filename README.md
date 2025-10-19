@@ -27,3 +27,5 @@ Repositório para a **Atividade 02 | Unidade II** .
 ``` g++ -std=c++11 ArraySet.cpp main.cpp -o testSet.exe ```
 
 Execute: ``` .\testSequence.exe ```
+
+<img src="test.conjunto.png" alt="Execução dos testes">
