@@ -70,3 +70,22 @@ Classe que representa uma **lista encadeada de strings**, com operações de ins
 | `getQuantity()` | Retorna a quantidade total de elementos. |
 | `print()` | Exibe todos os elementos na ordem atual. |
 
+# <a name="c3"></a>3. Estrutura do Repositório
+
+''' Atividade_TAD/
+├── TAD_Conjunto/                 # Implementação Tad Conjunto
+│   ├── Set.hpp                   # Arquivo de cabeçalho da classe Set
+│   ├── ArraySet.cpp              # Implementação metodos Tad Conjunto
+│   ├── main.cpp                  # Testes Tad Conjunto
+│
+├── TAD_Sequencia/                # Implementação Tad Sequencia
+│   ├── Node.h                    # Estrutura Node
+│   ├── Sequence.h                # Arquivo de cabeçalho da classe Sequence
+│   ├── ListSequence.cpp          # Implementação metodos Tad Sequencia
+│   ├── TestSequence.cpp          # Teste Tad Sequencia
+│
+├── README_TADs.md                # Relatório simplificado com descrição dos métodos
+
+teste.sequence.png # print Tad Sequence
+
+test.conjunto.png # print Tad Conjunto
