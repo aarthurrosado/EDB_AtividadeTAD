@@ -71,8 +71,8 @@ Classe que representa uma **lista encadeada de strings**, com operações de ins
 | `print()` | Exibe todos os elementos na ordem atual. |
 
 # <a name="c3"></a>3. Estrutura do Repositório
-
-''' Atividade_TAD/
+```
+EDB_Atividade_TAD/
 ├── TAD_Conjunto/                 # Implementação Tad Conjunto
 │   ├── Set.hpp                   # Arquivo de cabeçalho da classe Set
 │   ├── ArraySet.cpp              # Implementação metodos Tad Conjunto
@@ -85,7 +85,7 @@ Classe que representa uma **lista encadeada de strings**, com operações de ins
 │   ├── TestSequence.cpp          # Teste Tad Sequencia
 │
 ├── README_TADs.md                # Relatório simplificado com descrição dos métodos
-
+```
 teste.sequence.png # print Tad Sequence
 
 test.conjunto.png # print Tad Conjunto
