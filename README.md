@@ -14,7 +14,7 @@ Repositório para a **Atividade 02 | Unidade II** .
 
 ##  Sumário
 1. [Compilação e Testes](#c1)  
-2. [Funções Implementadas](#c2)  
+2. [Métodos Implementados](#c2)  
 3. [Estrutura do Repositório](#c3)  
 4. [Link do Repositório](#c4)  
 
