@@ -5,7 +5,9 @@
 Repositório para a **Atividade 02 | Unidade II** .
 
 1 - Descrição dos métodos implementados. 
+
 2 - Print do terminal ao executar os testes sobre os métodos implementados. 
+
 3 - Cada grupo deve enviar apenas um relatório. 
 
 ---
